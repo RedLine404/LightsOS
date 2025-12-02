@@ -20,14 +20,14 @@ It replicates the core architecture of a real OS, featuring a micro-kernel, a ro
 ## 🛠️ Installation & Usage
 
 1.  **Create a python virtual enviroment:**
-```bash
-python venv .venv
-```
+    ```bash
+    python venv .venv
+    ```
 
 2.  **Activate it (windows):**
-```bash
-./.venv/Scripts/Activate
-```
+    ```bash
+    ./.venv/Scripts/Activate
+    ```
 
 3.  **Clone the repository:**
     ```bash
