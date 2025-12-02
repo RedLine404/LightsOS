@@ -1,0 +1,46 @@
+{
+  "name": "root",
+  "type": "dir",
+  "children": {
+    "home": {
+      "type": "dir",
+      "children": {
+        "guest": {
+          "type": "dir",
+          "children": {
+            "notes.txt": {
+              "type": "file",
+              "content": "Remember to buy milk."
+            },
+            "todo.json": {
+              "type": "file",
+              "content": "{ \"tasks\": [ \"write os\", \"sleep\" ] }"
+            }
+          }
+        }
+      }
+    },
+    "bin": {
+      "type": "dir",
+      "children": {
+        "ls": { "type": "binary", "content": "Exectuable Code Placeholder" },
+        "echo": { "type": "binary", "content": "Exectuable Code Placeholder" }
+      }
+    },
+    "var": {
+      "type": "dir",
+      "children": {
+        "log": {
+          "type": "dir",
+          "children": {
+            "syslog": { "type": "file", "content": "[KERNEL] Booted successfully." }
+          }
+        }
+      }
+    },
+    "readme.md": {
+      "type": "file",
+      "content": "# Red \n Welcome to your virtual LightsOS."
+    }
+  }
+}

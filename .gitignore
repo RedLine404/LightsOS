@@ -1,0 +1,19 @@
+# Python compile files
+__pycache__/
+*.pyc
+
+# Virtual Environments (if you use them later)
+env/
+venv/
+.venv/
+
+# IDE settings (VS Code, Pycharm, etc.)
+.vscode/
+.idea/
+tests/
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
