@@ -86,16 +86,6 @@ LightsOS/
 This project is licensed under the MIT License - see the LICENSE file for details.
 code Code
 
-    
----
-
-### Step 3: The License (`LICENSE`)
-GitHub projects usually need a license so people know if they can use your code. The **MIT License** is the standard "do whatever you want with this" license.
-
-**File:** `LICENSE` (no extension)
-**Location:** Main folder.
-**Content:** (Copy/Paste this, but put **Your Name** and the **Year**).
-
 ```text
 MIT License
 
